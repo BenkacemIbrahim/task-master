@@ -1,6 +1,6 @@
 # ✅ Task Manager App
 
-A simple and clean Task Manager web application built using **PHP**, **HTML**, **Tailwind CSS**, and **JavaScript**.
+A simple and clean Task Manager web application built using **PHP**, **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**.
 This app allows users to manage their daily tasks with features like adding, editing, deleting tasks.
 
 ---
@@ -16,7 +16,7 @@ This app allows users to manage their daily tasks with features like adding, edi
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** HTML, Tailwind CSS, JavaScript
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript
 - **Backend:** PHP
 - **Storage:** MySQL
 
